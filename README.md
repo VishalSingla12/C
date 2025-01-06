@@ -1,16 +1,14 @@
 
 # 👋 Hi, I'm Vishal Singla
 
-I'm a **BTech AI/ML student** at **Thapar Institute of Engineering and Technology**. I'm just starting my coding journey with a focus on web development and foundational programming.
+I'm a **BTech AI/ML student** at **Thapar Institute of Engineering and Technology**. I'm just starting my coding journey with a focus on data science
 
 # 🛠️ Tech Stack:
  **Languages**: C, HTML, CSS
- **Tools**: Git, VS Code (learning)
+ **Tools**: VS Code , Git(learning)
 
 # 🌱 What I’m currently learning:
-- Strengthening my **C programming** skills
-- Exploring **HTML** and **CSS** for front-end web development
-- Learning the basics of **responsive design**
+- essential maths for data science
 - learning **python**
 
 # 👨‍💻 Projects:
@@ -21,5 +19,5 @@ I'm a **BTech AI/ML student** at **Thapar Institute of Engineering and Technolog
 - **Email**: vishalsingla12102006@gmail.com
 
 # ⚡ Fun fact:
-When I'm not coding, I enjoy reading news and solving maths problems.
+When I'm not coding, I enjoy reading  and solving maths problems.
 

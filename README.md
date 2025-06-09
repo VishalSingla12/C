@@ -4,18 +4,18 @@
 I'm a **BTech AI/ML student** at **Thapar Institute of Engineering and Technology**. I'm just starting my coding journey with a focus on data science
 
 # 🛠️ Tech Stack:
- **Languages**: C, HTML, CSS
+ **Languages**: C, C++(learning),python
  **Tools**: VS Code , Git(learning)
 
 # 🌱 What I’m currently learning:
-- essential maths for data science
-- learning **python**
+- C++ and dsa in c++
+- python libraries
 
 # 👨‍💻 Projects:
 - C program: A simple C program to practice fundamental programming concepts.
 
 # 📫 How to reach me:
-- **LinkedIn**: https://www.linkedin.com/in/vishal-singla-49b157322
+- **LinkedIn**:linkedin.com/in/vishal-singla-652622352
 - **Email**: vishalsingla12102006@gmail.com
 
 # ⚡ Fun fact:
